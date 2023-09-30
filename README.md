@@ -14,7 +14,7 @@ Welcome to WaterZilla, a powerful MERN stack web application that revolutionizes
 
 ## Installation
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/anjali-ghajbheemkar-21/Waterzilla-MERN.git`
 2. Navigate to the project directory: `cd Waterzilla`
 3. Install the required dependencies: `npm install`
 
